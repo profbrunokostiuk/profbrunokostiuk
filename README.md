@@ -14,14 +14,17 @@ descrições textuais de falhas e testes.
 
 ## Formação Acadêmica
 - Doutorado em Informática (em andamento) – PUCPR  
-- Mestrado em Informática – PUCPR  
-- Bacharelado em Ciência da Computação – PUCPR  
+- Mestrado em Informática – PUCPR
+- Especialização em Games e Gamificação na Educação - UNINTER
+- Especialização em Formação Docente para EAD - UNINTER
+- Bacharelado em Ciência da Computação – PUCPR
+- Bacharelado em Engenharia da Computação (em andamento)- UNINTER 
 
 ---
 
 ## Atuação Profissional
 - Professor do Ensino Superior – UNINTER  
-- Atuação em disciplinas de programação, engenharia de software e computação aplicada  
+- Atuação em disciplinas de programação, estrutuda de dados e computação aplicada  
 - Desenvolvimento de projetos acadêmicos, tecnológicos e interdisciplinares  
 
 ---
@@ -30,9 +33,9 @@ descrições textuais de falhas e testes.
 - Processamento de Linguagem Natural (NLP)  
 - Aprendizado de Máquina  
 - Sistemas de Recomendação  
-- Teste de Software  
-- Classificação multimodal (áudio, vídeo e emoções)  
-- Engenharia de Software  
+- Priorização de Teste de Software  
+- Classificação multirótulo
+- Processamento de informações Textuais, visuais e auditivas  
 
 ---
 
@@ -44,18 +47,23 @@ descrições textuais de falhas e testes.
 ---
 
 ## Tecnologias
-- Linguagens: Python, C, Java, SQL  
-- Machine Learning e NLP  
-- Bancos de Dados: PostgreSQL, MySQL  
+- Linguagens: Python, C, Java, JavaScript, SQL, Latex
+- Machine Learning, NLP, Transformers
+- Bancos de Dados: SQLite, MySQL  
 - Versionamento: Git e GitHub  
 
 ---
 
 ## Produção Científica
-- Artigos em conferências e periódicos internacionais
-- Desenvolvimento de sistemas de recomendação baseados em texto
-- Classificação automática de emoções em vídeos musicais
+- KOSTIUK, BRUNO; PUPPI WANDERLEY, GREGORY MORO ; TACLA, CESAR AUGUSTO ; VINISKI, ANTÔNIO DAVID ; NIEVOLA, JÚLIO CESAR ; PARAISO, EMERSON CABRERA . **A Hybrid Software Testing Recommendation System Based on Bugs and Tests Descriptions**. In: 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2025, Compiegne. 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2025. p. 1424-1429.  [Link da publicação](https://ieeexplore.ieee.org/document/11033283)
 
+- KOSTIUK, BRUNO; BRITTO, ALCEU S. ; HU, XIAO ; SILLA, CARLOS N. . **Multi-label Emotion Classification in Music Videos Using Ensembles of Audio and Video Features**. In: 2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), 2019, Portland. 2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), 2019. p. 517. [Link da publicação](https://ieeexplore.ieee.org/document/8995364)
+  
+- MENGARELLI, LUCIANO ; KOSTIUK, BRUNO ; VITÓRIO, JOÃO G. ; TIBOLA, MAICON A. ; WOLFF, WILLIAM ; SILLA, CARLOS N. . **OMR metrics and evaluation: a systematic review**. MULTIMEDIA TOOLS AND APPLICATIONS, v. 1, p. 1-26, 2019 [Link da publicação](https://link.springer.com/article/10.1007/s11042-019-08200-0)
+
+- KOSTIUK, BRUNO. CLASSIFICAÇÃO MULTI-RÓTULO DE EMOÇÕES EM VÍDEOS MUSICAIS UTILIZANDO CONJUNTOS DE CARACTERÍSTICAS DE ÁUDIO E VÍDEO. [Link da dissertação](https://archivum.grupomarista.org.br/pergamumweb/vinculos/000086/00008690.pdf)
+
+- KOSTIUK, BRUNO. Um Sistema Híbrido de Recomendação de Testes de Software baseado nas Descrições Textuais de Falhas e Testes. 
 ---
 
 ## Links Acadêmicos
