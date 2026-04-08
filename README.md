@@ -69,4 +69,3 @@ descrições textuais de falhas e testes.
 ## Links Acadêmicos
 - Currículo Lattes: http://lattes.cnpq.br/7079950560033705  
 - Google Acadêmico: https://scholar.google.com/citations?user=8fSXinQAAAAJ  
-``
