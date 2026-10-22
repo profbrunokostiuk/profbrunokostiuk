@@ -24,7 +24,7 @@ descrições textuais de falhas e testes.
 
 ## Atuação Profissional
 - Professor do Ensino Superior – UNINTER  
-- Atuação em disciplinas de programação, estrutura de dados e computação aplicada  
+- Atuação em disciplinas de Lógica de Programação e Algoritmos, Estrutura de Dados e de Programação em geral  
 - Desenvolvimento de projetos acadêmicos, tecnológicos e interdisciplinares  
 
 ---
